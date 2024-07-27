@@ -4,6 +4,7 @@
 *.vs
 *.user
 *.sln
+.idea
 
 # Unreal Engine Files
 Config
@@ -14,3 +15,4 @@ Saved
 Scipt
 *_Build
 Build
+Script
